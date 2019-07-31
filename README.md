@@ -1,9 +1,67 @@
-
-#Euler项目
->欧拉计划的前50道题学习记录,以及一些解题小技巧
-```　bash
 .
+├── 18input
+├── 42.txt
+├── 54.cpp
+├── a.out
+├── ep02
+├── ep02a.cpp
+├── ep02b
+├── ep02b.cpp
+├── ep02.cpp
+├── ep03
+├── ep03.cpp
+├── ep04
+├── ep04.cpp
+├── ep05.cpp
+├── ep06
+├── ep06.cpp
+├── ep07a.cpp
+├── ep07b.cpp
+├── ep07ceshi1.cpp
+├── ep07.cpp
+├── ep08.cpp
+├── ep09.cpp
+├── ep10.cpp
+├── ep11
+├── ep11.cpp
+├── ep12a.cpp
+├── ep12.cpp
+├── ep14a.cpp
+├── ep14.cpp
+├── ep15a.cpp
+├── ep15.cpp
+├── ep16.cpp
+├── ep18-1.cpp
+├── ep18-2.cpp
+├── ep18.cpp
+├── ep24.cpp
+├── ep25a.cpp
+├── ep25.cpp
+├── ep26.cpp
+├── ep28
+├── ep28.cpp
+├── EP29-2.cpp
+├── ep29a.cpp
+├── EP29a.cpp
+├── ep29.cpp
+├── ep30
+├── ep30.cpp
+├── ep31.cpp
+├── ep32.cpp
+├── ep33.cpp
+├── ep35.cpp
+├── ep36.cpp
+├── ep38.cpp
+├── ep39a.cpp
+├── ep39.cpp
+├── ep42.cpp
+├── ep44.cpp
+├── ep46.cpp
+├── ep47.cpp
+├── hz43.cpp
+├── input
 ├── P1
-│   └── a.c
+│   └── 1.c
 └── README.md
 
+1 directory, 63 files
